@@ -1,4 +1,4 @@
-# Laboratorio di Bioinformatica - [Nome del Laboratorio]
+# Laboratorio di Bioinformatica - Cellular and Molecular Oncology Lab - Palermo (Stassi)
 
 Benvenuti nel repository GitHub del Laboratorio di Bioinformatica [Nome del Laboratorio] dell'Università [Nome Università].
 
